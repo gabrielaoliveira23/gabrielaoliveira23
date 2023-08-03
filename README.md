@@ -1,8 +1,8 @@
-### Hi there 👋
+### boas vindas ao meu perfil
 
-<!--
-**gabrielaoliveira23/gabrielaoliveira23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é gabriela oliveira
 
+-Estou estudando 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
